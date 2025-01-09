@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning Engineer** and
 ---
 
 ## 📈 Let's Connect
-- **LinkedIn**: [Mostafa Asala](https://www.linkedin.com/in/mostafa-asala)
+- **LinkedIn**: [Mostafa Asala](https://www.linkedin.com/in/mosatafa-asla/)
 - **Portfolio/Blog**: Coming Soon!
 
 Feel free to explore my repositories to see my projects and contributions. Always happy to connect, collaborate, and learn together! 🚀
