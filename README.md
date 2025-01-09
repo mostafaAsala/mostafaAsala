@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning Engineer** and
 - **Part-Time Teaching Assistant**: Incorporating AI and data analysis to enhance learning experiences at **AAST**.
 - **Past Roles**: AI Developer at **McVerse** and projects with **SiliconExpert**.
 - **Interests**: Building intelligent solutions, automating workflows, and sharing knowledge through teaching and content creation.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaAsala&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa Asala" /> </p>
 
 ---
 
