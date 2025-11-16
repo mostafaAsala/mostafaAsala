@@ -2,7 +2,13 @@
 
 # ⭐ **Mostafa Asala**
 
-### *Machine Learning Engineer • AI Engineer • Data Analyst • Automation Builder*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=AI+Engineer+%F0%9F%A4%96+Specialized+in+LLM+Systems;Automation+Builder+%F0%9F%9A%80+for+Operations;Data+Streaming+%26+Hash+Detection+Expert;WMS+Community+Leader+%F0%9F%8C%88" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="200" />
+</div>
 
 ---
 
@@ -183,17 +189,10 @@ flowchart TD
 
 # 📫 **Let’s Connect**
 
-* 🔗 LinkedIn → *(Add link here)*
-* 📧 Email → *(Add email)*
-* 🌍 Portfolio → Coming soon
+* 🔗 LinkedIn → *([LinkedIn](https://www.linkedin.com/in/mosatafa-asla/))*
+* 📧 Email → *(mostafamohmed951@gmail.com)*
 
----
 
-# 💬 **Want an Even More Advanced Design?**
+----
 
-I can generate:
-✅ Dark/Neon Cyberpunk version
-✅ Glassmorphism UI
-✅ Material UI version
-✅ ASCII-art + animated SVG banners
-Just tell me your preferred style!
+
