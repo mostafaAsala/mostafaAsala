@@ -12,7 +12,7 @@
 
 ---
 
-# 🎨 **Profile Overview (Interactive UI)**
+# 🎨 **Profile Overview**
 
 ```mermaid
 flowchart LR
@@ -48,7 +48,7 @@ flowchart LR
 
 ---
 
-# 🔥 **My Passion (Interactive Mermaid Pie Chart)**
+# 🔥 **My Passion**
 
 ```mermaid
 pie showData
@@ -77,7 +77,7 @@ timeline
 
 ---
 
-# 🛠 **Skill System (Interactive Mermaid Radar Chart)**
+# 🛠 **Skill System**
 
 *(GitHub supports Mermaid, so this renders beautifully)*
 
@@ -98,7 +98,7 @@ pie title Skills Radar (Pie Alternative)
 
 ---
 
-# 🛠 **Interactive Skills Overview (Flow Layout)**
+# 🛠 **Interactive Skills Overview**
 
 ```mermaid
 flowchart LR
@@ -130,7 +130,7 @@ flowchart LR
 
 ---
 
-# 🚀 **Highlighted Projects (Visual Map)**
+# 🚀 **Highlighted Projects**
 
 ```mermaid
 flowchart TD
