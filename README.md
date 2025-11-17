@@ -3,7 +3,7 @@
 # ⭐ **Mostafa Asala**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=AI+Engineer+%F0%9F%A4%96+Specialized+in+LLM+Systems;Automation+Builder+%F0%9F%9A%80+for+Operations;Data+Streaming+%26+Hash+Detection+Expert;WMS+Community+Leader+%F0%9F%8C%88" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=AI+Engineer+%F0%9F%A4%96+Specialized+in+LLM+Systems;Automation+Builder+%F0%9F%9A%80+for+Operations;Machine+Learning+%26+Model+Trainer;Data+Analysis+%26+Dashboards+And+Monitors;Game+Developer" />
 </div>
 
 <div align="center">
